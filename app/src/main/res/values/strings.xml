@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntent-Demonstration</string>
+    <string name="this_is_activity2">this is activity2</string>
+    <string name="type_your_destination_here">Type your Destination Here</string>
+</resources>
